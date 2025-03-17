@@ -117,9 +117,9 @@ DCF valuation is a powerful tool that allows analysts and investors to make **da
 
 ### **Author & Contact**
 
-- **Author:** [Your Name]  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **GitHub:** [Your GitHub Profile]  
+- **Author:** Shatrughan Patel  
+- **LinkedIn:** linkedin.com/in/shatrughan-patel
+- Shatrughanpatel4@gmail.com
 
 Feel free to explore the project and reach out for any questions or discussions!
 
